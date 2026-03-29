@@ -1,6 +1,6 @@
 ---
 title: "Tarea 2. Punto fijo y series de Taylor"
-author: "Mi nombre"
+author: "Alexander Fuentes Gómez"
 lang: es
 format: 
   html:
